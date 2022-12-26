@@ -19,7 +19,7 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-
+## OUTPUT:
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
