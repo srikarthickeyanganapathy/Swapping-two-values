@@ -18,8 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by:Sri Karthikeyan Ganapathy
+#RegisterNumber:22008592
+surya=input()
+vijay=input()
+ball=surya
+surya=vijay
+vijay=ball
+ball=surya
+print("Swapped values are:",surya,vijay)
+```
 
 ## OUTPUT:
+![OUTPUT](git swap.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
