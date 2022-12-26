@@ -32,7 +32,7 @@ print("Swapped values are:",surya,vijay)
 ```
 
 ## OUTPUT:
-![OUTPUT](git swap.png)
+![OUTPUT](op.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
